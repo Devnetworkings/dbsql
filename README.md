@@ -28,3 +28,10 @@ CREATE TABLE users (
     email VARCHAR(100) NOT NULL,
     PRIMARY KEY (id)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+---
+## 🎬 Créditos y Autoría
+* **Desarrollador:** Willian Josué Mosquera Marcano
+* **Institución:** Universidad Politécnica Territorial de Caracas Mariscal Sucre (UPTECMS)
+* **Carrera:** Ingeniería en Informática
+* **Proyecto:** CRUD Básico de Usuarios - Práctica de Laboratorio
